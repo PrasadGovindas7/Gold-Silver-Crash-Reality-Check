@@ -67,3 +67,25 @@ Social media reactions significantly amplified short-term fear, while market dat
 ---
 
 ## 📂 Repository Structure
+
+Gold-Silver-Crash-Reality-Check/
+│
+├── data/
+│ ├── GOLD.csv
+│ ├── SILVER.csv
+│ ├── S&P500.csv
+│ └── USD_INDEX.csv
+│
+├── notebooks/
+│ └── Gold_Silver_SocialMedia_vs_Reality.ipynb
+│
+├── visuals/
+│ └── annotated_charts.png
+│
+└── README.md
+
+
+---
+
+## 📌 Why This Project Matters
+This project demonstrates how **data analysis can cut through online noise**, validate public narratives, and support calm, evidence-based decision-making in financial markets.
